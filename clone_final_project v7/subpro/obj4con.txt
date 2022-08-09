@@ -1,0 +1,5 @@
+1.817
+storage
+Block Blob storage (ZRS HOT)/per GB per month
+Azure
+https://azure.microsoft.com/en-in/pricing/

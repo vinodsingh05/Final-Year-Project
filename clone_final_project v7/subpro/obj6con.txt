@@ -1,0 +1,5 @@
+0.316
+computation
+Linux virtual machines (VMs)/per hour
+Azure
+https://azure.microsoft.com/en-in/pricing/
